@@ -1,4 +1,9 @@
-#### Name: [Grace Bell](https://github.com/lulabell)
+#### Name: [Ruhan Li](https://github.com/ruhanli)
+ - Place: Canada
+ - Bio: Mathematical Studies with Business Specialization @ Waterloo
+ - GitHub: [ruhanli](https://github.com/ruhanli)
+ 
+ #### Name: [Grace Bell](https://github.com/lulabell)
  - Place: North Carolina, USA
  - Bio: Learning Web Dev & Design
  - GitHub: [lulabell](https://github.com/lulabell)
